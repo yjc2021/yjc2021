@@ -10,7 +10,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 ## 📢 What I've been up to
 - 제 15회 TmaxOS 공개SW 개발자 대회 장려상
  [기사](https://m.post.naver.com/viewer/postView.naver?volumeNo=32557003&memberNo=33037825)
