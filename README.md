@@ -1,5 +1,13 @@
 ### Hi there 👋
-
+Choi YongJae
+---
+프론트엔드 개발자가 되기 위해 공부하고 있는 최용재입니다.
+### 📢 What I've been up to
+---
+제 15회 TmaxOS 공개SW 개발자 대회 장려상
+- [기사](https://m.post.naver.com/viewer/postView.naver?volumeNo=32557003&memberNo=33037825)
+- [작품 소개](http://bypub.kr/ebook/oss2021-1/index.html#p=60)
+- [Repository](https://github.com/yjc2021/calamares)
 <!--
 **yjc2021/yjc2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
