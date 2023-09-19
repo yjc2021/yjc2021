@@ -14,6 +14,8 @@
 
 
 ## 📢 What I've been up to
+### 2023.09 ~ 2024.03
+프로그래머스 프론트엔드 데브코스 5기
 ### 2023 
 <a href='https://www.diningcode.com/'>DiningCode</a> Frontend Engineer Intern (1.02 ~ 2.28)
 ### 2021
