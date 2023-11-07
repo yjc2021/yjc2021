@@ -1,7 +1,6 @@
 ## 🖐 Choi YongJae
 프론트엔드 개발자가 되기 위해 공부하고 있는 최용재입니다.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjc2021&show_icons=true&theme=vue) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjc1024)](https://solved.ac/yjc1024/)
 ## 🔧 Skill Stack
 <div>
