@@ -10,6 +10,10 @@
 제 15회 TmaxOS 공개SW 개발자 대회 장려상
  [기사](https://m.post.naver.com/viewer/postView.naver?volumeNo=32557003&memberNo=33037825)
  [Repository](https://github.com/yjc2021/calamares)
+## Stats
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjc1024)](https://solved.ac/yjc1024/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjc2021\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+
 <!--
 **yjc2021/yjc2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
