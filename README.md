@@ -14,6 +14,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjc1024)](https://solved.ac/yjc1024/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yjc2021\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/yjc1024" width="600" height="300"/></a>
 <!--
 **yjc2021/yjc2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
